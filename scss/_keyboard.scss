@@ -1,0 +1,9 @@
+.keyboard {
+  padding: $base-gap;
+  display: flex;
+  flex-direction: column;
+  row-gap: $base-gap;
+  background: $color-black-l;
+  border: 3px solid $color-black-xl;
+  border-radius: 5px;
+}
